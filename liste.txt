@@ -2,3 +2,4 @@
 2. Hızlı performans
 3. Çoklu dil desteği
 4. Güçlü güvenlik önlemleri
+5. Karanlık mod özelliği
