@@ -1,5 +1,5 @@
-1. Kullanıcı dostu arayüz
+1. Çoklu dil desteği
 2. Hızlı performans
-3. Çoklu dil desteği
+3. Kullanıcı dostu arayüz
 4. Güçlü güvenlik önlemleri
 5. Karanlık mod özelliği
